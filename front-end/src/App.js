@@ -79,7 +79,7 @@ function App() {
     try {
       await axios.delete(url + "/" + tarefaSelecionada.id);
       setData(data.filter((tarefa) => tarefa.id !== tarefaSelecionada.id));
-      abrirFecharModalExcluir(); // Fechar modal após deletar com sucesso
+      abrirFecharModalExcluir();
     } catch (error) {
       console.log(error);
     }
@@ -94,7 +94,6 @@ function App() {
 
   const handleCheckboxChange = async (tarefa) => {
     const updatedTarefa = { ...tarefa, isComplete: !tarefa.isComplete };
-    // Optionally, update the backend
     await axios
       .put(`${url}/${tarefa.id}`, updatedTarefa)
       .then((response) => {
