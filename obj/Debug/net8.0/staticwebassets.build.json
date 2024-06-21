@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "fZK0wjx59O9XyKot7+qxXSJ4hOrnLAw/ThSxL67XlDk=",
+  "Source": "ListaTarefasAPI",
+  "BasePath": "_content/ListaTarefasAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ListaTarefasAPI\\wwwroot",
+      "Source": "ListaTarefasAPI",
+      "ContentRoot": "C:\\Users\\tteve\\OneDrive\\Área de Trabalho\\UFC\\2024.1\\WEB\\TD ALTERNATIVO\\ListaTarefasAPI\\wwwroot\\",
+      "BasePath": "_content/ListaTarefasAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
