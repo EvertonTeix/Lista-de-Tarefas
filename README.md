@@ -29,3 +29,62 @@ npm install
 
 # Inicie o servidor de desenvolvimento do React
 npm start
+```
+## Exemplos de Utilização
+
+Aqui estão algumas capturas de tela da aplicação em funcionamento:
+
+### Inicializando o back-end utilizando o dotnet run
+![Inicialização](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/01.png)
+
+### Compilado
+![Compilação](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/02.png)
+
+### Adicionando o /swagger
+![Swagger](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/03.png)
+<br />
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/04.png)
+
+### Abrindo terminal na pasta front-end
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/05.png)
+
+### Utilizando npm start e compilando
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/06.png)
+
+### Front-end funcionando
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/07.png)
+
+### Adicionando Tarefa
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/08.png)
+
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/09.png)
+
+### Mostrando API funcionando
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/10.png)
+
+### Concluindo Tarefa
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/11.png)
+
+### Mostrando tarefa concluída
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/12.png)
+
+### Editando a Tarefa
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/13.png)
+
+
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/14.png)
+
+### Mostrando a tarefa editada
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/15.png)
+
+### Desmarcando a tarefa
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/16.png)
+
+### Mostrando a atualização 
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/17.png)
+
+### Excluindo a tarefa
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/18.png)
+![Descrição da Imagem](https://github.com/EvertonTeix/Lista-de-Tarefas/blob/main/Testes/19.png)
+
+
